@@ -9,21 +9,7 @@
 //     }
 // }
 
-func sampler() {
 
-let myFavoriteNums = [7, 8, 12, 11, 21]
-var odd = 0
-var even = 0
-for num in myFavoriteNums {
-if num % 2 == 0 {
- print("\(num) is Even!")
- even = even+1
- } else {
- print("\(num) is Odd!")
- odd = odd+1
- }
- }
-}
 
 class Team {
 
